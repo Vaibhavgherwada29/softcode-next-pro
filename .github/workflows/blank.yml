@@ -1,0 +1,7 @@
+cd softcode-next-pro
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/USERNAME/softcode-next-pro.git
+git push -u origin main
